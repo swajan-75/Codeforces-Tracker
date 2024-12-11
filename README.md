@@ -1,4 +1,4 @@
-# Codeforces Submission Tracker Bot
+# Codeforces Tracker Telegram Bot
 
 This project is a Telegram bot that tracks Codeforces submissions and sends daily reports of solved problems by users. The bot fetches submission data from the Codeforces API, analyzes the results, and sends a summary report via Telegram. It supports commands to trigger an immediate report and can be scheduled to send daily updates at a specific time.
 
@@ -43,8 +43,6 @@ This project is a Telegram bot that tracks Codeforces submissions and sends dail
 Here is an example of the daily report that the bot sends to the Telegram chat:
 
 <img src="https://i.imgur.com/8tEH1Uh.jpeg" alt="Telegram Bot Report" width="400">
-
-### Sample Telegram Bot Report
 
 The following is an example of a formatted report sent by the bot, showing the solved problems for the day:
 
