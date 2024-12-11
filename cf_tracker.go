@@ -12,8 +12,8 @@ import (
 	"github.com/go-co-op/gocron"
 )
 
-var bot_token string = "7166228483:AAGD2P3z0o004YCT9jPMTz_EogX3zBcMEo8"
-var chat_id string = "1274939394"
+var bot_token string = ""
+var chat_id string = ""
 const codeforces_api = "https://codeforces.com/api/user.status"
 
 type Problem struct {
